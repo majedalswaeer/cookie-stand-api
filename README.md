@@ -1,3 +1,9 @@
+# cookie-stand-api
+- This project was made to know how to doploy our backend and data base to Heroku and Hlephant sql
+- Running server: [Heroku Server]( https://cookie-stand-api-majed.herokuapp.com/)
+- [PR](https://github.com/majedalswaeer/cookie-stand-api/pull/1) : Merged for deployment
+
+
 # api-quick-start
 
 Template Project for starting up CRUD API with Django Rest Framework

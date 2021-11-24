@@ -5,7 +5,7 @@ API_HOST = "http://localhost:8000"
 RESOURCE_URI = "cookie_stands"
 USERNAME = "admin"
 PASSWORD = "admin"
-
+# API_HOST="https://cookie-stand-api-majed.herokuapp.com/"
 
 class ApiTester:
     """CLI for testing API"""
